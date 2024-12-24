@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\34216\\Desktop\\py\\PythonFMU-master\\PythonFMU-master\\pythonfmu\\pythonfmu-export\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D042128-8812-318E-9D7B-9315B6CE43A9}|src\\pythonfmu-export.vcxproj|D:\\ANACONDA3\\INCLUDE\\OBJECT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "object.h",
+              "DocumentMoniker": "D:\\anaconda3\\include\\object.h",
+              "ToolTip": "D:\\anaconda3\\include\\object.h",
+              "ViewState": "AgIAADIAAAAAAAAAAAAvwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-21T06:43:35.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

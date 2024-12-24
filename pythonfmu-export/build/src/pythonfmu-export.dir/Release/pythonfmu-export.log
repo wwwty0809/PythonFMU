@@ -1,0 +1,38 @@
+﻿  Building Custom Rule D:/anaconda3/envs/FMU/Lib/site-packages/pythonfmu/pythonfmu-export/src/CMakeLists.txt
+  cppfmu_cs.cpp
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\cppfmu\cppfmu_cs.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2Functions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/cppfmu/cppfmu_cs.cpp”)
+  
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2TypesPlatform.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/cppfmu/cppfmu_cs.cpp”)
+  
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2FunctionTypes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/cppfmu/cppfmu_cs.cpp”)
+  
+  fmi_functions.cpp
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2Functions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/cppfmu/fmi_functions.cpp”)
+  
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2TypesPlatform.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/cppfmu/fmi_functions.cpp”)
+  
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2FunctionTypes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/cppfmu/fmi_functions.cpp”)
+  
+  PySlaveInstance.cpp
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\pythonfmu\PySlaveInstance.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2Functions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/pythonfmu/PySlaveInstance.cpp”)
+  
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2TypesPlatform.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/pythonfmu/PySlaveInstance.cpp”)
+  
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2FunctionTypes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../src/pythonfmu/PySlaveInstance.cpp”)
+  
+D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\pythonfmu\PySlaveInstance.cpp(100,36): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Auto build dll exports
+    正在创建库 D:/anaconda3/envs/FMU/Lib/site-packages/pythonfmu/pythonfmu-export/build/src/Release/pythonfmu-export.lib 和对象 D:/anaconda3/envs/FMU/Lib/site-packages/pythonfmu/pythonfmu-export/build/src/Release/pythonfmu-export.exp
+  pythonfmu-export.vcxproj -> D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\resources\binaries\win64\pythonfmu-export.dll

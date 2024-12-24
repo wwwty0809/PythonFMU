@@ -1,0 +1,10 @@
+^D:\ANACONDA3\ENVS\FMU\LIB\SITE-PACKAGES\PYTHONFMU\PYTHONFMU-EXPORT\BUILD\CMAKEFILES\466C7B38FD7B778D7613EF7F16DB3D53\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SD:/anaconda3/envs/FMU/Lib/site-packages/pythonfmu/pythonfmu-export -BD:/anaconda3/envs/FMU/Lib/site-packages/pythonfmu/pythonfmu-export/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/anaconda3/envs/FMU/Lib/site-packages/pythonfmu/pythonfmu-export/build/pythonfmu-export.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

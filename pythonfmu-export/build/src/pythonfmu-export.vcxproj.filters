@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\cppfmu\cppfmu_cs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\cppfmu\fmi_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\pythonfmu\PySlaveInstance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\cppfmu\cppfmu_cs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\cppfmu\cppfmu_common.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2Functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2FunctionTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\fmi\fmi2TypesPlatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\pythonfmu\PySlaveInstance.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\pythonfmu\PyState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\anaconda3\envs\FMU\Lib\site-packages\pythonfmu\pythonfmu-export\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DED5E0F7-F3E6-3521-B1D0-2A39F3D7A851}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{677E0303-EAE8-341C-B287-88CE57A7E700}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
